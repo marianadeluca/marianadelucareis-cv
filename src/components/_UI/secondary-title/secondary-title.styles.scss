@@ -1,0 +1,18 @@
+@import '../../../variables.scss';
+
+.section-subtitle {
+    background: $color-primary;
+    background-image: linear-gradient(to left, $color-primary, $color-secondary);
+    font-size: 1.4em;
+    font-weight: 500;
+    margin-top: 2.4rem;
+    padding: 5px 18px;
+
+    &__black {
+        color: $color-white;
+    }
+
+    &__white {
+        color: $color-black;
+    }
+}

@@ -1,0 +1,15 @@
+@import '../../../variables.scss';
+
+.btn-primary {
+    background-color: $color-black;
+    border: none;
+    color: $color-primary;
+    display: block;
+    font-family: $font-mono;
+    font-size: 1.1em;
+    margin: 20px auto;
+    width: 78vw;
+    padding: 1em 2em;
+    text-decoration: none;
+    text-align: center;
+}

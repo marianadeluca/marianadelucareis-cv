@@ -1,0 +1,18 @@
+@import '../../../variables.scss';
+
+.primary-title {
+    display: inline-block;
+    font-size: 1.6em;
+    font-weight: 400;
+    padding: 0 2.8rem 0.3rem 2.8rem;
+    text-transform: uppercase;
+
+    &__black {
+        color: $color-white;
+        border-bottom: 2pt dashed $color-primary;
+    }
+
+    &__white {
+        border-bottom: 2pt dashed $color-primary;
+    }
+}

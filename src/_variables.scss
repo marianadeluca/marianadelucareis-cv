@@ -1,0 +1,22 @@
+// https://sass-guidelin.es/#introduction
+
+$color-black: rgb(29, 29, 29);
+
+$color-gray-lighter: rgb(248, 248, 248);
+$color-gray: rgb(236, 240, 239);
+$color-gray-darker: rgb(228, 228, 228);
+
+$color-primary: rgb(125, 204, 201);
+$color-secondary: rgb(105, 192, 183);
+
+$color-white: rgb(255, 255, 255);
+
+// Font styles
+$font-mono:  'DM Mono', 'Courier New', 'Courier', monospace;
+
+// Media queries
+$screen-lg: 85.714rem;  /* 1200px */
+$screen-md: 53.751rem;  /* 750px */
+$screen-sm: 39.286rem;  /* 550px */
+$screen-xs: 35.714rem;  /* 500px */
+$screen-xxs: 22.857rem; /* 320px */

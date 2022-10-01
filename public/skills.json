@@ -1,0 +1,31 @@
+[
+   { 
+    "primary-skills": 
+        [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "SQL",
+            "Typescript",
+            "Angular",
+            "React",
+            "Git"
+        ]
+    },
+    {
+        "secondary-skills": 
+        [
+            "Node",
+            "MongoDB",
+            "Docker",
+            "Ruby on Rails",
+            "Visual Basic for Applications (VBA)",
+            "Nestjs"
+        ]
+    },
+    {
+        "other-skills": {
+        
+        }
+    }
+]

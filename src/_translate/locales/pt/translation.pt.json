@@ -1,0 +1,24 @@
+{
+  "btnContact": "Contato",
+  "btnDownload": "Baixar CV",
+  "description": {
+    "part1": "Edite <1>src/App.js</1> e salve para recarregar.",
+    "part2": "Aprenda React S2"
+  },
+
+
+  "section-about": {
+    "title": "Sobre",
+    "paragraph-1": "Olá! Eu sou a Mariana, desenvolvedora de software atualmente morando em Americana/SP. TO DO...",
+    "paragraph-2": "hehehe"
+  },
+
+  "section-skills": {
+    "title": "Competências",
+    "subtitle-1": "Principais linguagens e ferramentas",
+    "subtitle-2": "Linguagens e ferramentas secundárias",
+    "subtitle-3": "Outras competências"
+  },
+
+  "tagline": "desenvolvedora"
+}

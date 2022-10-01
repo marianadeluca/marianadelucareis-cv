@@ -1,0 +1,18 @@
+@import './_variables.scss';
+
+.App {
+  background-color: $color-white;
+  color: $color-black;
+  font-family: $font-mono;
+  font-weight: 400;
+  margin: 0 auto;
+  text-align: center;
+
+  @media screen and (min-width: $screen-md) {
+    background-image: linear-gradient(
+      to right,
+      $color-gray 60%,
+      $color-gray-lighter 100%
+    );
+  }
+}

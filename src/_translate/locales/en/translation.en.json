@@ -1,0 +1,25 @@
+{
+  "btnContact": "Contact",
+  "btnDownload": "Download CV",
+  "description": {
+    "part1": "Edit <1>src/App.js</1> and save to reload.",
+    "part2": "Learn React <3"
+  },
+
+  "section-about": {
+    "title": "About",
+    "paragraph-1": 
+      "Hello! I'm Mariana, a developer currently based in Americana, São Paulo. As someone that likes to learn new things, is not afraid of changing and is easy to adapt, I finished my second graduation in Digital Games, where I discovered that what motivates me is to solve problems and challenge myself. I found those things in my Developer career and in the Technology sector, where I work and have been in constant development since 2018.",
+    "paragraph-2": 
+      "As my initial formation, I sudied Graphic Design, an area in which today I work only as a freelancer and in personal projects, with over 10 years of experience in creating layouts for print and web, desktop publishing and illustration."
+  },
+
+  "section-skills": {
+    "title": "My Skills",
+    "subtitle-1": "Main Languages & Tools",
+    "subtitle-2": "Secondary Languages & Tools",
+    "subtitle-3": "Another Skills"
+  },
+
+  "tagline": "developer"
+}
