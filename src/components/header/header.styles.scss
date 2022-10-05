@@ -1,7 +1,9 @@
-@import '../../variables.scss';
+@import '../../_assets/_variables.scss';
 
 .page-head {
     background-color: $color-primary;
+    background-image: linear-gradient(to bottom left, $color-primary, $color-secondary);
+    background-image: linear-gradient(to bottom left, $color-secondary, $color-primary );
     grid-area: header;
     // min-height: 100vh;
     padding: 60px 0 20px 0;

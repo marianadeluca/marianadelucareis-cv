@@ -6,7 +6,6 @@
     "part2": "Aprenda React S2"
   },
 
-
   "section-about": {
     "title": "Sobre",
     "paragraph-1": "Olá! Eu sou a Mariana, desenvolvedora de software atualmente morando em Americana/SP. TO DO...",
@@ -17,7 +16,46 @@
     "title": "Competências",
     "subtitle-1": "Principais linguagens e ferramentas",
     "subtitle-2": "Linguagens e ferramentas secundárias",
-    "subtitle-3": "Outras competências"
+    "subtitle-3": "Outras competências",
+    "another":  {
+      "layouts": "Criação de layous e interfaces"
+    }
+  },
+
+  "section-work-experience" : {
+    "title": "Experiência",
+    "experiences": {
+      "ramper": {
+        "period": "jun/2021 - sep/2022",
+        "role": "analista de desenvolvimento de software",
+        "text": "I worked as a software developer using mainly AngularJS, Angular and React frameworks, working on both bug fixes and developing new features. I always prioritize to write and refactor code with best practices in mind. My focus was on front-end, using tools as SASS and Styled Components, but also gained experience working with web APIs, HTTP protocols, NodeJs and Mongodb database. São Paulo/SP."
+      },
+      "thomson": {
+        "period": "aug/2019 - jun/2021",
+        "role": "estagiária",
+        "text": "Software development and maintenance using Oracle PL/SQL, Centura Team Developer, Forms6, Forms12 and JavaScript languages, using Scrum methodology. Throughout my internship, I participated in Job Rotations, where I was able to work in different products and areas of the company, occasionally performing functions as Tester and Functional Analyst; in addition to that I took part in the creation of internal development projects using Python and frameworks like Angular and Springboot. I also had the opportunity to work on an external project, developing workflow automation using VBA in Excel and Word. Campinas/SP."
+      },
+      "encoda": {
+        "period": "jan/2018 - aug/2019",
+        "role": "estagiária",
+        "text": "I acted as a Web Developer assisting in bug fixing, maintenance and creation of web pages for Fundação Estudar, among other clients. I developed in a Linux environment using Docker and Git for versioning control, HTML5/CSS3, MySql, Ruby on Rails, AngularJS, JQuery, Bootstrap, Sass, Wordpress. Besides that, I had the opportunity to be responsible for the creation of a website in blog format using Ruby on Rails and JavaScript, in addition to implementing SEO tools, the blog.rpgist.net. Americana/SP."
+      },
+      "netwire": {
+        "period": "jan/2018 - aug/2019",
+        "role": "suporte técnico/designer",
+        "text": "I was part of the Technical Support team, being responsible for the preparation of different files to be used in translation tools, like manuals, whitepapers, packages, documentation, articles, among others; recreation of PDF files in editable format and desktop publishing/diagramming using softwares like Adobe Indesign, Adobe Illustrator, Adobe Framemaker, CorelDraw and Office applications. I also acted in the creation of E-learning using Web-based Training (WBT) tools and Articulate Softwares. Campinas/SP."
+      },
+      "mstech": {
+        "period": "jan/2018 - aug/2019",
+        "role": "estagiária",
+        "text": "I worked in the creation of layouts, illustrations and interface design for educational games, websites and applications. Bauru/SP."
+      },
+      "completa": {
+        "period": "jan/2018 - aug/2019",
+        "role": "estagiária",
+        "text": "Creation and design of e-mail marketing, banners, catalogs and stationery. Bauru/SP."
+      }
+    }
   },
 
   "tagline": "desenvolvedora"

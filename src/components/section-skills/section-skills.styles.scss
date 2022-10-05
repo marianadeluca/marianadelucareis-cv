@@ -1,8 +1,50 @@
-@import '../../variables.scss';
+@import '../../_assets/_variables.scss';
 
 .section-skills {
     background-color: $color-black;
     color: $color-white;
     margin-top: 40px;
     padding: 20px 28px;
+
+    .another-skills-list,
+    .skills-list {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .another-skills-list {
+        color: $color-secondary;
+        font-size: 1.2em;
+        font-weight: 300;
+
+        &__small {
+            color: $color-white;
+            display: block;
+            font-weight: 400;
+            margin: 0.4em 0 1.2em 0;
+        }
+    }
+
+    .skills-list {
+        &__name {
+            display: inline-block;
+            font-size: 1.2em;
+            font-weight: 300;
+            line-height: 1.8em;
+            list-style-type: none;
+            padding-right: 10px;
+
+            &::after {
+                content: '•';
+                color: $color-primary;
+                padding-left: 10px;
+            }
+
+            &:last-child {
+                &::after {
+                    content: ''
+                }
+            }
+        }
+    }
 }
