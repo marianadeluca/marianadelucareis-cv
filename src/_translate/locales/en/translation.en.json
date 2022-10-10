@@ -14,6 +14,47 @@
       "As my initial formation, I sudied Graphic Design, an area in which today I work only as a freelancer and in personal projects, with over 10 years of experience in creating layouts for print and web, desktop publishing and illustration."
   },
 
+  "section-contact": {
+    "title": "Contact & Design Portfolio"
+  },
+
+  "section-education": {
+    "title": "Education",
+    "design": {
+      "title": "Graphic Design Bachelor Degree",
+      "text":  "UNESP/Bauru - Universidade Estadual Paulista 'Júlio de Mesquita Filho'"
+    },
+    "games": {
+      "title": "Digital Games Technology Degree",     
+      "text": "FATEC/Americana - Faculdade de Tecnologia de Americana"
+    },
+    "other": {
+      "title": "Another Trainings and Courses:",
+      "courses": {
+        "angular": "Angular 2+ Training",
+        "english": "7th English and American Culture Immersion Program",
+        "plsql": "Oracle/PLSQL Training",
+        "sebrae": {
+          "title": "Capacitação do Programa ALI - Agentes Locais de Inovação",
+          "description": "A SEBRAE program in partnership with CNPq with the objective of promoting innovation in small companies, focusing on best management practices and strategic planning. "
+        },
+        "ux": "Information Architecture (UX)"
+      }
+    }
+  },
+
+  "section-languages": {
+    "title": "Languages",
+    "english": {
+      "name": "English",
+      "level": "Working professional"
+    },
+    "spanish": {
+      "name": "Spanish",
+      "level": "Elementary"
+    }
+  },
+
   "section-skills": {
     "title": "My Skills",
     "subtitle-1": "Main Languages & Tools",

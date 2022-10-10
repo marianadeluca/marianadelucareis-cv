@@ -62,5 +62,17 @@ export const secondarySkills = [
     {
         id: 7,
         name: 'Nestjs'
+    },
+    {
+        id: 8,
+        name: 'Java'
+    },
+    {
+        id: 9,
+        name: 'GOlang'
+    },
+    {
+        id: 10,
+        name: 'Python'
     }
 ]

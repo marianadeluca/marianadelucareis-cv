@@ -12,8 +12,7 @@ function SectionAbout() {
             <p className="section-about__paragraph">{t('section-about.paragraph-1')}</p>
             <p className="section-about__paragraph">{t('section-about.paragraph-2')}</p>
         </section>
-    )
-
+    );
 }
 
 export default SectionAbout;

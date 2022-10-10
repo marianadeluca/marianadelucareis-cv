@@ -11,7 +11,7 @@ const languages = {
 function Header() {
     const { t, i18n} = useTranslation();
     return (
-        <header className="page-head">
+        <header className="page-header">
 
         <div>
         {Object.keys(languages).map((language) => (
@@ -25,8 +25,8 @@ function Header() {
         ))}
       </div>
          
-            <h1 className="page-head__title">Mariana De Luca Reis</h1>
-            <span className="page-head__subtitle">
+            <h1 className="page-header__title">Mariana De Luca Reis</h1>
+            <span className="page-header__subtitle">
                 <Trans i18nKey="tagline">developer</Trans>
             </span>
 

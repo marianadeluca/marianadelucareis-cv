@@ -1,5 +1,3 @@
-// import "../_translate/locales/translation.en.json"
-
 export const experiences = [
     {
         key: "completa",

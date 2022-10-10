@@ -12,6 +12,48 @@
     "paragraph-2": "hehehe"
   },
 
+  "section-contact": {
+    "title": "Contato e Portifólio (Design)"
+  },
+
+  "section-education": {
+    "title": "Formação Acadêmica e Cursos",
+    "design": {
+      "title": "Bacharelado em Design Gráfico",
+      "text":  "UNESP/Bauru - Universidade Estadual Paulista 'Júlio de Mesquita Filho'"
+    },
+    "games": {
+      "title": "Tecnólogo em Jogos Digitais",
+      "text": "FATEC/Americana - Faculdade de Tecnologia de Americana"
+    },
+    "other": {
+      "title": "Outros Treinamentos e Cursos:",
+      "courses": {
+        "angular": "Treinamento Angular 2+",
+        "english": "7th English and American Culture Immersion Program",
+        "plsql": "Treinamento Oracle/PLSQL",
+        "sebrae": {
+          "title": "Capacitação do Programa ALI - Agentes Locais de Inovação",
+          "description": "Um programa do SEBRAE em parceria com o CNPq cujo objetivo é promover inovação em pequenas empresas, focando em melhores práticas de gestão e planejamento estratégico. "
+        },
+        "ux": "Information Architecture (UX)"
+      }
+    }
+  },
+
+  "section-languages": {
+    "title": "Idiomas",
+    "english": {
+      "name": "Inglês",
+      "level": "Fluente"
+    },
+    "spanish": {
+      "name": "Espanhol",
+      "level": "Básico"
+    }
+  },
+
+
   "section-skills": {
     "title": "Competências",
     "subtitle-1": "Principais linguagens e ferramentas",

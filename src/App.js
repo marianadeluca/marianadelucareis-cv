@@ -1,7 +1,11 @@
 import './App.scss';
 
+import Footer from './components/footer/footer.component';
 import Header from './components/header/header.component';
 import SectionAbout from './components/section-about/section-about.component';
+import SectionContact from './components/section-contact/section-contact.component';
+import SectionEducation from './components/section-education/section-education.component';
+import SectionLanguages from './components/section-languages/section-languages.component';
 import SectionSkills from './components/section-skills/section-skills.component';
 import SectionWorkExperience from './components/section-work-experience/section-work-experience.component';
 
@@ -19,6 +23,10 @@ function App() {
       <SectionAbout />
       <SectionSkills />
       <SectionWorkExperience />
+      <SectionEducation />
+      <SectionLanguages />
+      <SectionContact />
+      <Footer/>
     </div>
   );
 }

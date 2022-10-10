@@ -31,12 +31,6 @@ function SectionWorkExperience() {
                     </div>
                 ))
             }
-
-            
-           
-
-         
-
         </section>
     )
 

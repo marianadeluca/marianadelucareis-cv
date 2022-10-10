@@ -8,6 +8,13 @@
   margin: 0 auto;
   text-align: center;
 
+  .section-skills, .section-education {
+    background-color: $color-black;
+    color: $color-white;
+    margin-top: 40px;
+    padding: 20px 28px;
+  }
+
   @media screen and (min-width: $screen-md) {
     background-image: linear-gradient(
       to right,

@@ -1,13 +1,13 @@
 import './common-title.styles.scss';
 
-function CommonTitle({ titleText, color }) {
+function CommonTitle({ text, color }) {
 
     const style = 
         color === "white" ? "section-title__white" : "section-title__black";	
    
     return(
         <h4 className={`section-title  ${style}`}>
-            {titleText}
+            {text}
         </h4>
     )
 
