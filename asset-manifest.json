@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/marianadelucareis-cv/static/css/main.073c9b0a.css",
-    "main.js": "/marianadelucareis-cv/static/js/main.f1b12318.js",
+    "main.css": "/marianadelucareis-cv/static/css/main.0c27a9ca.css",
+    "main.js": "/marianadelucareis-cv/static/js/main.b37051b2.js",
     "static/js/787.0c150075.chunk.js": "/marianadelucareis-cv/static/js/787.0c150075.chunk.js",
-    "static/media/logo.svg": "/marianadelucareis-cv/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/marianadelucareis-cv/index.html",
-    "main.073c9b0a.css.map": "/marianadelucareis-cv/static/css/main.073c9b0a.css.map",
-    "main.f1b12318.js.map": "/marianadelucareis-cv/static/js/main.f1b12318.js.map",
+    "static/media/getFetch.cjs": "/marianadelucareis-cv/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.0c27a9ca.css.map": "/marianadelucareis-cv/static/css/main.0c27a9ca.css.map",
+    "main.b37051b2.js.map": "/marianadelucareis-cv/static/js/main.b37051b2.js.map",
     "787.0c150075.chunk.js.map": "/marianadelucareis-cv/static/js/787.0c150075.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f1b12318.js"
+    "static/css/main.0c27a9ca.css",
+    "static/js/main.b37051b2.js"
   ]
 }
