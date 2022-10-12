@@ -1,0 +1,16 @@
+.section-work-experience {
+    &__paragraph {
+        font-size: 1.1em;
+        font-weight: 300;
+        line-height: 1.8em;
+        margin: 1.6em 0 3em 0;
+        text-align: left;
+    }
+
+    &__small {
+        display: block;
+        font-size: 0.9em;
+        margin-top: 0.5em;
+    }
+    
+}

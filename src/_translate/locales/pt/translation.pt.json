@@ -1,10 +1,6 @@
 {
   "btnContact": "Contato",
   "btnDownload": "Baixar CV",
-  "description": {
-    "part1": "Edite <1>src/App.js</1> e salve para recarregar.",
-    "part2": "Aprenda React S2"
-  },
 
   "section-about": {
     "title": "Sobre",
@@ -13,7 +9,8 @@
   },
 
   "section-contact": {
-    "title": "Contato e Portifólio (Design)"
+    "title": "Contato e Portifólio (Design)",
+    "phone": "(19) 9 9291 3893"
   },
 
   "section-education": {
@@ -52,7 +49,6 @@
       "level": "Básico"
     }
   },
-
 
   "section-skills": {
     "title": "Competências",

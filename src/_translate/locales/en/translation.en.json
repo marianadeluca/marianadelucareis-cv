@@ -1,10 +1,6 @@
 {
   "btnContact": "Contact",
   "btnDownload": "Download CV",
-  "description": {
-    "part1": "Edit <1>src/App.js</1> and save to reload.",
-    "part2": "Learn React <3"
-  },
 
   "section-about": {
     "title": "About",
@@ -15,7 +11,8 @@
   },
 
   "section-contact": {
-    "title": "Contact & Design Portfolio"
+    "title": "Contact & Design Portfolio",
+    "phone": "+55 19 9 9291 3893"
   },
 
   "section-education": {

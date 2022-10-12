@@ -1,0 +1,26 @@
+@import '../../_assets/_variables.scss';
+
+.section-contact {
+
+    &__icon {
+        color: $color-primary;
+        font-size: 1.4em;
+        padding-right: 8px;
+        vertical-align: middle;
+    }
+
+    &__list {
+        font-size: 0.82em;
+        font-weight: 300;
+        line-height: 2.8em;
+        list-style-type: none;
+        padding-left: 0;
+        text-align: left;
+    }
+
+    &__link {
+        color: red;
+        color: $color-black;
+
+    }
+}

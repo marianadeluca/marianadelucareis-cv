@@ -1,0 +1,13 @@
+@import '../../_assets/_variables.scss';
+
+.page-footer {
+    background-color: $color-black;
+    color: $color-white;
+    font-size: 0.8em;
+    font-weight: 300;
+    padding: 2rem 2rem 3rem 2rem;
+
+    &__link {
+        color: $color-white;
+    }
+}

@@ -19,15 +19,17 @@ function SectionWorkExperience() {
             {
                 orderedExperiences.map((experience) => (
                     <div key={experience.key}>
-                        <SecondaryTitle subtitleText={experience.name} color="white" />
-                        <small>
+                        <SecondaryTitle 
+                            subtitleText={experience.name} 
+                            color="white" />
+                        <small className="section-work-experience__small">
                             [
                                 {t(`section-work-experience.experiences.${experience.key}.role`)} | 
                                 {t(`section-work-experience.experiences.${experience.key}.period`)}
                             ]
                         </small>
 
-                        <p>{t(`section-work-experience.experiences.${experience.key}.text`)}</p>
+                        <p className="section-work-experience__paragraph">{t(`section-work-experience.experiences.${experience.key}.text`)}</p>
                     </div>
                 ))
             }

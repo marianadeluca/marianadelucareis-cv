@@ -10,9 +10,9 @@ function SectionLanguages() {
         <section className="section-languages">
             <PrimaryTitle titleText={t('section-languages.title')} color="white"/>
             <SecondaryTitle subtitleText={t('section-languages.english.name')} color="white"/>
-            <small>[{t('section-languages.english.level')}]</small>
+            <small className='section-languages__small'>[{t('section-languages.english.level')}]</small>
             <SecondaryTitle subtitleText={t('section-languages.spanish.name')} color="white"/>
-            <small>[{t('section-languages.spanish.level')}]</small>
+            <small className='section-languages__small'>[{t('section-languages.spanish.level')}]</small>
         </section>
     )
 }

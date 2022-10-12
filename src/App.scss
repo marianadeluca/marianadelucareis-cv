@@ -8,11 +8,18 @@
   margin: 0 auto;
   text-align: center;
 
+  .section-contact, 
+  .section-education,
+  .section-languages, 
+  .section-skills,
+  .section-work-experience  {
+    // margin-top: 40px;
+    padding: 20px 2.5rem;
+  }
+  
   .section-skills, .section-education {
     background-color: $color-black;
     color: $color-white;
-    margin-top: 40px;
-    padding: 20px 28px;
   }
 
   @media screen and (min-width: $screen-md) {

@@ -5,8 +5,8 @@
     background-image: linear-gradient(to bottom left, $color-secondary, $color-primary );
     font-size: 1.4em;
     font-weight: 500;
-    margin-top: 2.4rem;
-    padding: 5px 18px;
+    margin: 2.4rem auto 0;
+    padding: 8px 18px;
 
     &__black {
         color: $color-white;
