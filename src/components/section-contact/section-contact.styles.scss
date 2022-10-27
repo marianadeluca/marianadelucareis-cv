@@ -1,6 +1,8 @@
 @import '../../_assets/_variables.scss';
 
 .section-contact {
+    padding: 20px 3rem;
+    margin-bottom: 50px;
 
     &__icon {
         color: $color-primary;
@@ -22,5 +24,10 @@
         color: red;
         color: $color-black;
 
+    }
+
+    @media screen and (min-width: $screen-xs) {
+        padding: 30px 10rem;
+        
     }
 }

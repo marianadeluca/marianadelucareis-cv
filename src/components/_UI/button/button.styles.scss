@@ -12,4 +12,12 @@
     padding: 1em 2em;
     text-decoration: none;
     text-align: center;
+
+    @media screen and (min-width: $screen-md) {
+        width: 27rem;
+    }
+
+    @media screen and (min-width: $screen-md) {
+        width: 18rem;
+    }
 }

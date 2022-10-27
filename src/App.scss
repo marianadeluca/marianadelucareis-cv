@@ -8,25 +8,35 @@
   margin: 0 auto;
   text-align: center;
 
-  .section-contact, 
   .section-education,
   .section-languages, 
   .section-skills,
   .section-work-experience  {
     // margin-top: 40px;
-    padding: 20px 2.5rem;
+    padding: 20px 3rem;
   }
   
   .section-skills, .section-education {
     background-color: $color-black;
     color: $color-white;
+    padding-bottom: 4em;
+  }
+
+  @media screen and (min-width: $screen-xs) {
+    .section-about,
+    .section-education,
+    .section-languages, 
+    .section-skills,
+    .section-work-experience {
+      padding: 50px 5rem;
+    }
   }
 
   @media screen and (min-width: $screen-md) {
     background-image: linear-gradient(
       to right,
-      $color-gray 60%,
-      $color-gray-lighter 100%
+      $color-gray-lighter 60%,
+      $color-white 100%
     );
   }
 }

@@ -2,26 +2,42 @@
 
 .page-header {
     background-color: $color-primary;
-    background-image: linear-gradient(to bottom left, $color-primary, $color-secondary);
     background-image: linear-gradient(to bottom left, $color-secondary, $color-primary );
     grid-area: header;
-    // min-height: 100vh;
     padding: 60px 0 20px 0;
     text-align: center;
   
-    &__title {
-      font-size: 2em;
-      font-weight: 400;
-      margin: 0 auto;
-      padding: 10px 40px;
+    &__button {
+      background-color: $color-secondary;
+      border: none;
+      border-radius: 3px;
+      font-family: $font-mono;
+      font-size: 0.7em;
+      padding: 5px 8px;
+     
+      &--active {
+        border: 1pt solid $color-primary-transparent2;
+        box-shadow: inset 0 0 4px 1px $color-primary-transparent;
+      }
+      
+    } 
+
+    &__languages {
+      align-items: center;
+      display: flex;
+      gap: 4px;
+      justify-content: flex-end;
+      left: -1em;
+      position: relative;
+      top: -3em;
     }
   
     &__subtitle {
       color: $color-white;
       display: block;
       font-size: 1em;
-      font-style: italic;    
-      font-weight: 500;    
+      font-style: italic;
+      font-weight: 500;
       margin-bottom: 40px;
       margin-top: 28px;
       padding-left: 5px;
@@ -33,6 +49,45 @@
   
       &::before {
         content: "<!-- "
+      }
+    }
+
+    &__title {
+      font-size: 2em;
+      font-weight: 400;
+      margin: 0 auto;
+      padding: 10px 40px;
+    }
+
+    @media screen and (min-width: $screen-lg) {
+      background: none;
+
+      &__buttons {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+        width: 45vw;
+      }
+
+      &__subtitle {
+        color: $color-primary;
+        font-size: 1.2em;
+      }
+
+      &__title {
+        font-size: 2.3em;
+      }
+      
+      &__titles {
+        background-color: $color-white;
+        //background-color: initial;
+        border: 2pt solid $color-black;
+        box-shadow: 0px 8px 0px 5px $color-gray;
+        margin: 0 auto 100px;
+        padding: 100px 0 60px 0;
+        place-self: center;
+        width: 70vw;
       }
     }
   }

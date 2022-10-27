@@ -4,8 +4,8 @@
 
   "section-about": {
     "title": "Sobre",
-    "paragraph-1": "Olá! Eu sou a Mariana, desenvolvedora de software atualmente morando em Americana/SP. TO DO...",
-    "paragraph-2": "hehehe"
+    "paragraph-1": "Olá! Eu sou a Mariana, desenvolvedora de software atualmente morando em Americana/SP. Como alguém que gosta de aprender coisas novas, é flexível e não tem medo de mudanças, concluí minha segunda graduação em Jogos Digitais, onde descobri que o que me motiva profissionalmente são desafios e resolução de problemas. Encontrei isso na carreira de desenvolvedora de software e na área de Tecnologia da informação, em que atuo e estou em contante desenvolvimento desde 2018.",
+    "paragraph-2": "Tenho o Design Gráfico como primeira formação, área em que atualmente trabalho como freelancer, com mais de dez anos de experiência criando layouts para web e impressos, diagramação de documentos e ilustrações."
   },
 
   "section-contact": {
@@ -17,11 +17,11 @@
     "title": "Formação Acadêmica e Cursos",
     "design": {
       "title": "Bacharelado em Design Gráfico",
-      "text":  "UNESP/Bauru - Universidade Estadual Paulista 'Júlio de Mesquita Filho'"
+      "text":  "UNESP/Bauru - Universidade Estadual Paulista 'Júlio de Mesquita Filho'."
     },
     "games": {
       "title": "Tecnólogo em Jogos Digitais",
-      "text": "FATEC/Americana - Faculdade de Tecnologia de Americana"
+      "text": "FATEC/Americana - Faculdade de Tecnologia de Americana."
     },
     "other": {
       "title": "Outros Treinamentos e Cursos:",
@@ -51,10 +51,10 @@
   },
 
   "section-skills": {
-    "title": "Competências",
+    "title": "Habilidades",
     "subtitle-1": "Principais linguagens e ferramentas",
     "subtitle-2": "Linguagens e ferramentas secundárias",
-    "subtitle-3": "Outras competências",
+    "subtitle-3": "Design e Jogos",
     "another":  {
       "layouts": "Criação de layous e interfaces"
     }
@@ -64,34 +64,34 @@
     "title": "Experiência",
     "experiences": {
       "ramper": {
-        "period": "jun/2021 - sep/2022",
+        "period": "jun/2021 - set/2022",
         "role": "analista de desenvolvimento de software",
-        "text": "I worked as a software developer using mainly AngularJS, Angular and React frameworks, working on both bug fixes and developing new features. I always prioritize to write and refactor code with best practices in mind. My focus was on front-end, using tools as SASS and Styled Components, but also gained experience working with web APIs, HTTP protocols, NodeJs and Mongodb database. São Paulo/SP."
+        "text": "Trabalhei como desenvolvedora de software, tanto na criação de novas features quanto em resolução de bugs, utilizando metodologia SCRUM usando principalmente frameworks como AngularJS, Angular e React. Sempre priorizei a escrita de um código limpo e uso das melhores práticas. Apesar do foco em front-end, utilizando ferramentas como SASS e Typescript, também adquirii experiência trabalhando com APIs, protocolos HTTP, NodeJs e MongoDB. São Paulo/SP."
       },
       "thomson": {
-        "period": "aug/2019 - jun/2021",
+        "period": "ago/2019 - jun/2021",
         "role": "estagiária",
-        "text": "Software development and maintenance using Oracle PL/SQL, Centura Team Developer, Forms6, Forms12 and JavaScript languages, using Scrum methodology. Throughout my internship, I participated in Job Rotations, where I was able to work in different products and areas of the company, occasionally performing functions as Tester and Functional Analyst; in addition to that I took part in the creation of internal development projects using Python and frameworks like Angular and Springboot. I also had the opportunity to work on an external project, developing workflow automation using VBA in Excel and Word. Campinas/SP."
+        "text": "Desenvolvimento e manutenção de software usando Oracle PL/SQL e linguagem Centura Team Developer, Forms, JavaScript e SCRUM. Ao longo do período de estágio, participei de Job rotations, tendo a chance de trabalhar com diferentes produtos e áreas da empresa, ocasionalmente desempenhando funções de QA e analista funcional; participei da criação de projetos de desenvolvimento internos usando Python e frameworks como Angular e Springboot. Ainda, tive a oportunidade de me envolver em um projeto externo para uma equipe dos EUA, desenvolvendo uma automatização de fluxo de trabalho utilizando VBA em Excel e Word. Campinas/SP."
       },
       "encoda": {
-        "period": "jan/2018 - aug/2019",
+        "period": "jan/2018 - ago/2019",
         "role": "estagiária",
-        "text": "I acted as a Web Developer assisting in bug fixing, maintenance and creation of web pages for Fundação Estudar, among other clients. I developed in a Linux environment using Docker and Git for versioning control, HTML5/CSS3, MySql, Ruby on Rails, AngularJS, JQuery, Bootstrap, Sass, Wordpress. Besides that, I had the opportunity to be responsible for the creation of a website in blog format using Ruby on Rails and JavaScript, in addition to implementing SEO tools, the blog.rpgist.net. Americana/SP."
+        "text": "Atuei como desenvolvedora web auxiliando na resolução de bugs, manutenção e criação de sites para a Fundação Estudar, entre outros clientes. Desenvolvimento utilizando ferramentas como Docker e Git para controle de versão,  HTML5/CSS3, MySql, Ruby on Rails, AngularJS, JQuery, Bootstrap, Sass, Wordpress. Além disso, tive a oportunidade de ser responsável pela criação de um blog utilizando Ruby on Rails e Javascript, além de implementar ferramentas como SEO: o blog.rpgist.net. Americana/SP."
       },
       "netwire": {
-        "period": "jan/2018 - aug/2019",
+        "period": "jan/2018 - ago/2019",
         "role": "suporte técnico/designer",
-        "text": "I was part of the Technical Support team, being responsible for the preparation of different files to be used in translation tools, like manuals, whitepapers, packages, documentation, articles, among others; recreation of PDF files in editable format and desktop publishing/diagramming using softwares like Adobe Indesign, Adobe Illustrator, Adobe Framemaker, CorelDraw and Office applications. I also acted in the creation of E-learning using Web-based Training (WBT) tools and Articulate Softwares. Campinas/SP."
+        "text": "Sendo parte do time de Suporte Técnico, era responsável pela preparaçao de tipos diferentes de arquivos para serem processados e utilizados em ferramentas de tradução (CAT Tools), como manuais, whitepapers, documentações, artigos, entre outros; recriação de arquivos PDF para formato editável e DTP (desktop publishing)/diagramação utilizando softwares como Adobe Indesign, Adobe Ilustrator, Adobe Framemaker, CorelDraw e aplicativos Office. Atuei também na criação de E-learning usando ferramentas de Web-based Traning (WBT) e softwares Articulate. Campinas/SP."
       },
       "mstech": {
-        "period": "jan/2018 - aug/2019",
+        "period": "jan/2018 - ago/2019",
         "role": "estagiária",
-        "text": "I worked in the creation of layouts, illustrations and interface design for educational games, websites and applications. Bauru/SP."
+        "text": "Trabalhei na criação de layouts, ilustrações e UI para jogos educativos, sites e aplicações. Bauru/SP."
       },
       "completa": {
         "period": "jan/2018 - aug/2019",
         "role": "estagiária",
-        "text": "Creation and design of e-mail marketing, banners, catalogs and stationery. Bauru/SP."
+        "text": "Criação e design de e-mail marketing, banners, catálogos e produtos de papelaria. Bauru/SP."
       }
     }
   },

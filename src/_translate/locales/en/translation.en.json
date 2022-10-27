@@ -19,11 +19,11 @@
     "title": "Education",
     "design": {
       "title": "Graphic Design Bachelor Degree",
-      "text":  "UNESP/Bauru - Universidade Estadual Paulista 'Júlio de Mesquita Filho'"
+      "text":  "UNESP/Bauru - Universidade Estadual Paulista 'Júlio de Mesquita Filho'."
     },
     "games": {
       "title": "Digital Games Technology Degree",     
-      "text": "FATEC/Americana - Faculdade de Tecnologia de Americana"
+      "text": "FATEC/Americana - Faculdade de Tecnologia de Americana."
     },
     "other": {
       "title": "Another Trainings and Courses:",
@@ -56,7 +56,7 @@
     "title": "My Skills",
     "subtitle-1": "Main Languages & Tools",
     "subtitle-2": "Secondary Languages & Tools",
-    "subtitle-3": "Another Skills",
+    "subtitle-3": "Design and Games Skills",
     "another":  {
       "layouts": "Layouts and Interfaces"
     }
@@ -68,12 +68,12 @@
       "ramper": {
         "period": "jun/2021 - sep/2022",
         "role": "software developer analyst",
-        "text": "I worked as a software developer using mainly AngularJS, Angular and React frameworks, working on both bug fixes and developing new features. I always prioritize to write and refactor code with best practices in mind. My focus was on front-end, using tools as SASS and Styled Components, but also gained experience working with web APIs, HTTP protocols, NodeJs and Mongodb database. São Paulo/SP."
+        "text": "I worked as a software developer using mainly AngularJS, Angular and React frameworks, using SCRUM methodology and working on both bug fixes and developing new features. I always prioritize to write and refactor code with best practices in mind. My focus was on front-end, using tools as SASS e Typescript, but also gained experience working with web APIs, HTTP protocols, NodeJs and Mongodb database. São Paulo/SP."
       },
       "thomson": {
         "period": "aug/2019 - jun/2021",
         "role": "intern",
-        "text": "Software development and maintenance using Oracle PL/SQL, Centura Team Developer, Forms6, Forms12 and JavaScript languages, using Scrum methodology. Throughout my internship, I participated in Job Rotations, where I was able to work in different products and areas of the company, occasionally performing functions as Tester and Functional Analyst; in addition to that I took part in the creation of internal development projects using Python and frameworks like Angular and Springboot. I also had the opportunity to work on an external project, developing workflow automation using VBA in Excel and Word. Campinas/SP."
+        "text": "Software development and maintenance using Oracle PL/SQL, Centura Team Developer, Forms6, Forms12 and JavaScript languages, using Scrum methodology. Throughout my internship, I participated in Job Rotations, where I was able to work in different products and areas of the company, occasionally performing functions as Tester and Functional Analyst; in addition to that I took part in the creation of internal development projects using Python and frameworks like Angular and Springboot. I also had the opportunity to work on an external project with an US team, developing workflow automation using VBA in Excel and Word. Campinas/SP."
       },
       "encoda": {
         "period": "jan/2018 - aug/2019",
@@ -83,7 +83,7 @@
       "netwire": {
         "period": "jan/2018 - aug/2019",
         "role": "technical support/designer",
-        "text": "I was part of the Technical Support team, being responsible for the preparation of different files to be used in translation tools, like manuals, whitepapers, packages, documentation, articles, among others; recreation of PDF files in editable format and desktop publishing/diagramming using softwares like Adobe Indesign, Adobe Illustrator, Adobe Framemaker, CorelDraw and Office applications. I also acted in the creation of E-learning using Web-based Training (WBT) tools and Articulate Softwares. Campinas/SP."
+        "text": "I was part of the Technical Support team, being responsible for the preparation of different files to be used in translation tools (CAT Tools), like manuals, whitepapers, packages, documentation, articles, among others; recreation of PDF files in editable format and desktop publishing/diagramming using softwares like Adobe Indesign, Adobe Illustrator, Adobe Framemaker, CorelDraw and Office applications. I also acted in the creation of E-learning using Web-based Training (WBT) tools and Articulate Softwares. Campinas/SP."
       },
       "mstech": {
         "period": "jan/2018 - aug/2019",
