@@ -14,10 +14,23 @@
     text-align: center;
 
     @media screen and (min-width: $screen-md) {
-        width: 27rem;
+        width: 18rem;
     }
 
-    @media screen and (min-width: $screen-md) {
-        width: 18rem;
+    @media screen and (min-width: $screen-lg) {
+        &:hover {
+            background-color: $color-primary;
+            color: $color-black;
+            cursor: pointer;
+            -webkit-transition:  background-color 150ms linear;
+            -ms-transition:  background-color 150ms linear;
+            transition:  background-color 150ms linear;
+        }
+
+        &:focus {
+            background-color: $color-primary;
+            box-shadow: inset 1px 3px 5px 0px $color-primary-darker;
+            color: $color-black;  
+        }
     }
 }

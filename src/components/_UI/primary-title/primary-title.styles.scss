@@ -15,4 +15,28 @@
     &__white {
         border-bottom: 2pt dashed $color-primary;
     }
+
+    @media screen and (min-width: $screen-lg) {
+        font-size: 1.8em;
+        line-height: 1;
+        grid-area: title;
+        max-height: 1em;
+        margin-right: 1.3em;
+        margin-top: 20px;
+        padding: 0 0 0.3rem 2.8rem;
+        text-align: right;
+
+        &__black,
+        &__white {
+            color: $color-black;
+        }
+
+        &__two {
+            max-height: 2em;
+        }
+
+        &__three {
+            max-height: 3em;
+        }
+    }
 }

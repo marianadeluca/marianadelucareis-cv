@@ -39,4 +39,18 @@
       $color-white 100%
     );
   }
+
+  @media screen and (min-width: $screen-lg) {
+    .section-about,
+    .section-contact,
+    .section-education,
+    .section-languages, 
+    .section-skills,
+    .section-work-experience {
+      background-color: initial;
+      color: $color-black;
+      margin: 0 auto;
+      max-width: 60vw;
+    }
+  }
 }

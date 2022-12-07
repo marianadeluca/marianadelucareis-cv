@@ -44,4 +44,28 @@
             }
         }
     }
+
+    @media screen and (min-width: $screen-lg) {
+        column-gap: 2em;
+        display: grid;
+        grid-template-columns: 1fr 3fr; 
+        grid-template-rows: auto;
+        grid-template-areas: 
+            "title primarySkill primarySkill primarySkill"
+            "title secondarySkill secondarySkill secondarySkill" 
+            "title otherSkills otherSkills otherSkills" ;
+        text-align: left;
+
+        .another-skills-list {
+            color: $color-black;
+            font-size: 1.2em;
+            font-weight: 300;
+    
+            &__small {
+                color: $color-black;
+                font-weight: 300;
+                margin: 0.4em 0 1.2em 0;
+            }
+        }
+    }
 }

@@ -9,8 +9,10 @@ function SectionAbout() {
         <section className="section-about">
             <PrimaryTitle titleText={t('section-about.title')} color="white" />
          
-            <p className="section-about__paragraph">{t('section-about.paragraph-1')}</p>
-            <p className="section-about__paragraph">{t('section-about.paragraph-2')}</p>
+            <div className="section-about__text">
+                <p className="section-about__paragraph">{t('section-about.paragraph-1')}</p>
+                <p className="section-about__paragraph">{t('section-about.paragraph-2')}</p>
+            </div>
         </section>
     );
 }

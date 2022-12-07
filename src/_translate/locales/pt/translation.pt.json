@@ -64,32 +64,32 @@
     "title": "Experiência",
     "experiences": {
       "ramper": {
-        "period": "jun/2021 - set/2022",
+        "period": " jun/2021 - set/2022",
         "role": "analista de desenvolvimento de software",
         "text": "Trabalhei como desenvolvedora de software, tanto na criação de novas features quanto em resolução de bugs, utilizando metodologia SCRUM usando principalmente frameworks como AngularJS, Angular e React. Sempre priorizei a escrita de um código limpo e uso das melhores práticas. Apesar do foco em front-end, utilizando ferramentas como SASS e Typescript, também adquirii experiência trabalhando com APIs, protocolos HTTP, NodeJs e MongoDB. São Paulo/SP."
       },
       "thomson": {
-        "period": "ago/2019 - jun/2021",
+        "period": " ago/2019 - jun/2021",
         "role": "estagiária",
         "text": "Desenvolvimento e manutenção de software usando Oracle PL/SQL e linguagem Centura Team Developer, Forms, JavaScript e SCRUM. Ao longo do período de estágio, participei de Job rotations, tendo a chance de trabalhar com diferentes produtos e áreas da empresa, ocasionalmente desempenhando funções de QA e analista funcional; participei da criação de projetos de desenvolvimento internos usando Python e frameworks como Angular e Springboot. Ainda, tive a oportunidade de me envolver em um projeto externo para uma equipe dos EUA, desenvolvendo uma automatização de fluxo de trabalho utilizando VBA em Excel e Word. Campinas/SP."
       },
       "encoda": {
-        "period": "jan/2018 - ago/2019",
+        "period": " jan/2018 - ago/2019",
         "role": "estagiária",
         "text": "Atuei como desenvolvedora web auxiliando na resolução de bugs, manutenção e criação de sites para a Fundação Estudar, entre outros clientes. Desenvolvimento utilizando ferramentas como Docker e Git para controle de versão,  HTML5/CSS3, MySql, Ruby on Rails, AngularJS, JQuery, Bootstrap, Sass, Wordpress. Além disso, tive a oportunidade de ser responsável pela criação de um blog utilizando Ruby on Rails e Javascript, além de implementar ferramentas como SEO: o blog.rpgist.net. Americana/SP."
       },
       "netwire": {
-        "period": "jan/2018 - ago/2019",
+        "period": " jan/2018 - ago/2019",
         "role": "suporte técnico/designer",
         "text": "Sendo parte do time de Suporte Técnico, era responsável pela preparaçao de tipos diferentes de arquivos para serem processados e utilizados em ferramentas de tradução (CAT Tools), como manuais, whitepapers, documentações, artigos, entre outros; recriação de arquivos PDF para formato editável e DTP (desktop publishing)/diagramação utilizando softwares como Adobe Indesign, Adobe Ilustrator, Adobe Framemaker, CorelDraw e aplicativos Office. Atuei também na criação de E-learning usando ferramentas de Web-based Traning (WBT) e softwares Articulate. Campinas/SP."
       },
       "mstech": {
-        "period": "jan/2018 - ago/2019",
+        "period": " jan/2018 - ago/2019",
         "role": "estagiária",
         "text": "Trabalhei na criação de layouts, ilustrações e UI para jogos educativos, sites e aplicações. Bauru/SP."
       },
       "completa": {
-        "period": "jan/2018 - aug/2019",
+        "period": " jan/2018 - aug/2019",
         "role": "estagiária",
         "text": "Criação e design de e-mail marketing, banners, catálogos e produtos de papelaria. Bauru/SP."
       }

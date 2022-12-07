@@ -39,4 +39,11 @@
         font-weight: 300;
         margin-top: 0.5em;
     }
+
+    @media screen and (min-width: $screen-lg) {
+        column-gap: 2em;
+        display: grid;
+        grid-template-columns: 1fr 3fr;
+        grid-template-areas:  "title . . .";
+    }
 }

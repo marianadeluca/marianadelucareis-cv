@@ -15,10 +15,10 @@ function SectionWorkExperience() {
 
     return(
         <section className="section-work-experience">
-            <PrimaryTitle titleText={t('section-work-experience.title')} color="white" />
+            <PrimaryTitle titleText={t('section-work-experience.title')} color="white" height="two" />
             {
                 orderedExperiences.map((experience) => (
-                    <div key={experience.key}>
+                    <div key={experience.key} style={{gridArea: experience.key}}>
                         <SecondaryTitle 
                             subtitleText={experience.name} 
                             color="white" />

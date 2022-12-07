@@ -13,39 +13,45 @@ function SectionSkills() {
         <section className="section-skills">
             <PrimaryTitle titleText={t('section-skills.title')} color="black" />
 
-            <SecondaryTitle subtitleText={t('section-skills.subtitle-1')} color="black" />
+            <div style={{gridArea: "primarySkill"}}>
+                <SecondaryTitle subtitleText={t('section-skills.subtitle-1')} color="black" />
 
-            <ul className="skills-list">
-                {
-                   primarySkills.map((primarySkill) => (
-                     <li className="skills-list__name" key={primarySkill.id}>{primarySkill.name}</li>
-                   ))
-                }
-            </ul>
-
-            <SecondaryTitle subtitleText={t('section-skills.subtitle-2')} color="black" />
-
-            <ul className="skills-list">
-                {
-                    secondarySkills.map((secondarySkill) => (
-                    <li className="skills-list__name" key={secondarySkill.id}>{secondarySkill.name}</li>
+                <ul className="skills-list">
+                    {
+                    primarySkills.map((primarySkill) => (
+                        <li className="skills-list__name" key={primarySkill.id}>{primarySkill.name}</li>
                     ))
-                }
-            </ul>
+                    }
+                </ul>
+            </div>
 
-            <SecondaryTitle subtitleText={t('section-skills.subtitle-3')} color="black" />
+            <div style={{gridArea: "secondarySkill"}}>
+                <SecondaryTitle subtitleText={t('section-skills.subtitle-2')} color="black" />
 
-            <ul className="another-skills-list">
-                <li>
-                    {t('section-skills.another.layouts')} <small className="another-skills-list__small"> [Adobe Photoshop | Adobe Illustrator | Adobe InDesign | Figma]</small>
-                </li>
+                <ul className="skills-list">
+                    {
+                        secondarySkills.map((secondarySkill) => (
+                        <li className="skills-list__name" key={secondarySkill.id}>{secondarySkill.name}</li>
+                        ))
+                    }
+                </ul>
+            </div>
 
-                <li>Game Design <small className="another-skills-list__small">[Unity 3D | C# | Phaser]</small></li>
+            <div style={{gridArea: "otherSkills"}}>
+                <SecondaryTitle subtitleText={t('section-skills.subtitle-3')} color="black" />
 
-                <li>Desktop Publishing (DTP) <small className="another-skills-list__small">[Adobe Indesign | Adobe Framemaker | Microsoft Word | Microsoft PowerPoint]</small></li>
+                <ul className="another-skills-list">
+                    <li>
+                        {t('section-skills.another.layouts')} <small className="another-skills-list__small"> [Adobe Photoshop | Adobe Illustrator | Adobe InDesign | Figma]</small>
+                    </li>
 
-                <li>Web-based Training (WBT) <small className="another-skills-list__small">[Articulate Studio | Articulate Storyline]</small></li>
-            </ul>
+                    <li>Game Design <small className="another-skills-list__small">[Unity 3D | C# | Phaser]</small></li>
+
+                    <li>Desktop Publishing (DTP) <small className="another-skills-list__small">[Adobe Indesign | Adobe Framemaker | Microsoft Word | Microsoft PowerPoint]</small></li>
+
+                    <li>Web-based Training (WBT) <small className="another-skills-list__small">[Articulate Studio | Articulate Storyline]</small></li>
+                </ul>
+            </div>
         </section>
     )
 }
